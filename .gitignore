@@ -1,0 +1,16 @@
+*.log
+logs
+config
+local
+mods
+modernfix
+libraries
+kubejs
+journeymap
+defaultconfigs
+crash-reports
+.mixin.out
+ldlib
+packmenu
+patchouli_books
+potionblender

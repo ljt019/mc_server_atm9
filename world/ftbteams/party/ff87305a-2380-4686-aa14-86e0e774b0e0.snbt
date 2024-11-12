@@ -1,0 +1,38 @@
+{
+	id: "ff87305a-2380-4686-aa14-86e0e774b0e0"
+	type: "party"
+	owner: "16b26c8c-cf1e-4e52-9468-e72cd226c82d"
+	ranks: {
+		5ac90ec3-0b77-4f00-909b-f62f8576ea37: "member"
+		325d8376-3e66-442c-be3d-822512e05522: "member"
+		16b26c8c-cf1e-4e52-9468-e72cd226c82d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Sci-Port"
+		"ftbteams:description": ""
+		"ftbteams:color": "#C4FF59"
+		"ftbteams:free_to_join": 1b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "public"
+		"ftbchunks:block_interact_mode": "public"
+		"ftbchunks:entity_interact_mode": "public"
+		"ftbchunks:nonliving_entity_attack_mode": "public"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "public"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728353220436L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Zoinkerd\"}]}" }
+		{ from: "16b26c8c-cf1e-4e52-9468-e72cd226c82d", date: 1728353220449L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"LucidxJosh\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728353224195L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"LucidxJosh\"}]}" }
+		{ from: "16b26c8c-cf1e-4e52-9468-e72cd226c82d", date: 1728443853602L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"RocketRabbit_\"}]}" }
+		{ from: "16b26c8c-cf1e-4e52-9468-e72cd226c82d", date: 1728619498329L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"RocketRabbit_\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728619512368L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"RocketRabbit_\"}]}" }
+	]
+	extra: { }
+}

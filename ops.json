@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "b2a02869-0848-4243-9d3a-9d996c2633ab",
+    "name": "RocketRabbit",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "16b26c8c-cf1e-4e52-9468-e72cd226c82d",
+    "name": "Zoinkerd",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5ac90ec3-0b77-4f00-909b-f62f8576ea37",
+    "name": "RocketRabbit_",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

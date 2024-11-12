@@ -1,0 +1,64 @@
+{
+	max_claim_chunks: 500
+	max_force_load_chunks: 25
+	last_login_time: 1731374256892L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: -7, z: -11, time: 1728832624269L, force_loaded: 1728832631522L }
+			{ x: -1, z: -12, time: 1728715736677L, force_loaded: 1728715737473L }
+			{ x: -3, z: -8, time: 1728353341558L, force_loaded: 1728353342104L }
+			{ x: -2, z: -11, time: 1728353333903L, force_loaded: 1728353346907L }
+			{ x: -1, z: -10, time: 1728353334398L, force_loaded: 1728353348000L }
+			{ x: -4, z: -9, time: 1728353336798L, force_loaded: 1728353344545L }
+			{ x: -2, z: -8, time: 1728353328456L, force_loaded: 1728353342803L }
+			{ x: -1, z: -8, time: 1728353328803L, force_loaded: 1728353343046L }
+			{ x: -4, z: -11, time: 1728353332099L, force_loaded: 1728353345297L }
+			{ x: -4, z: -10, time: 1728353336549L, force_loaded: 1728353345059L }
+			{ x: -3, z: -10, time: 1728353333459L, force_loaded: 1728353346346L }
+			{ x: -3, z: -11, time: 1728353333662L, force_loaded: 1728353346045L }
+			{ x: -2, z: -9, time: 1728353334854L, force_loaded: 1728353344004L }
+			{ x: -1, z: -9, time: 1728353335053L, force_loaded: 1728353343755L }
+			{ x: -3, z: -9, time: 1728353332957L, force_loaded: 1728353344272L }
+			{ x: 0, z: -10, time: 1728353330195L, force_loaded: 1728832633564L }
+			{ x: -1, z: -11, time: 1728353334162L, force_loaded: 1728353347752L }
+			{ x: -2, z: -10, time: 1728353334647L, force_loaded: 1728353346646L }
+			{ x: -6, z: -11, time: 1728832623570L, force_loaded: 1728832630834L }
+			{ x: -4, z: -8, time: 1728353337045L, force_loaded: 1728353344764L }
+			{ x: -5, z: -11, time: 1728832623190L, force_loaded: 1728832630021L }
+			{ x: -2, z: -12, time: 1731375345943L, force_loaded: 1731375348545L }
+			{ x: 0, z: -11, time: 1728353330447L, force_loaded: 1728832633916L }
+			{ x: 0, z: -9, time: 1728353329990L, force_loaded: 1728832632815L }
+		]
+		"minecraft:the_nether": [
+			{ x: 0, z: -3, time: 1728715488184L }
+			{ x: 1, z: -3, time: 1728715776085L, force_loaded: 1728715777286L }
+			{ x: 1, z: -2, time: 1728715488830L }
+			{ x: 0, z: -2, time: 1728715488184L }
+		]
+	}
+	member_data: {
+		325d8376-3e66-442c-be3d-822512e05522: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		5ac90ec3-0b77-4f00-909b-f62f8576ea37: {
+			original_claims: {
+				"minecraft:the_nether": [
+					{ x: 0, z: -3 }
+					{ x: 1, z: -3 }
+					{ x: 1, z: -2 }
+					{ x: 0, z: -2 }
+				]
+			}
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+		16b26c8c-cf1e-4e52-9468-e72cd226c82d: {
+			max_force_loaded_chunks: 25
+			max_claimed_chunks: 500
+			offline_force_loader: 0b
+		}
+	}
+}

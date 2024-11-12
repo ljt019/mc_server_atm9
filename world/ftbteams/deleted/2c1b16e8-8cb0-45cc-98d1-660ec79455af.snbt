@@ -1,0 +1,34 @@
+{
+	id: "2c1b16e8-8cb0-45cc-98d1-660ec79455af"
+	type: "party"
+	owner: "5ac90ec3-0b77-4f00-909b-f62f8576ea37"
+	ranks: {
+		5ac90ec3-0b77-4f00-909b-f62f8576ea37: "owner"
+		16b26c8c-cf1e-4e52-9468-e72cd226c82d: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "RocketRabbit_'s Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FD59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728188730934L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"RocketRabbit_\"}]}" }
+		{ from: "5ac90ec3-0b77-4f00-909b-f62f8576ea37", date: 1728188746681L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Zoinkerd\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1728188751401L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Zoinkerd\"}]}" }
+	]
+	extra: { }
+}
